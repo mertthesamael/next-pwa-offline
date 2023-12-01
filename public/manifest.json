@@ -1,0 +1,11 @@
+{ 
+"name": "",
+ "short_name": "",
+ "theme_color": "#00ff00",
+ "background_color": "#ffffff", 
+ "display": "browser", 
+ "orientation": "any", 
+ "scope": "/", 
+ "start_url": "/"
+
+  }
